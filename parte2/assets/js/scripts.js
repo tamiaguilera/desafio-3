@@ -10,7 +10,7 @@ btn.addEventListener("click", () => {
     if (total <= 10) {
         msg.innerHTML = `Llevas ${total} stickers`;
       } else {
-        msg.innerHTML = "Llevas muchos stickers";
+        msg.innerHTML = "Llevas muchos stickers" ;
       }
     });
     
